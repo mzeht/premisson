@@ -1,4 +1,4 @@
-package com.wpmac.premisson;
+package com.wpmac.premission;
 
 import android.Manifest;
 import android.content.Context;
@@ -15,13 +15,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Desc:获取位置工具类
- * Author：LiZhimin
- * Date：2016/12/7 20:16
- * Version V1.0
- * Copyright © 2016 LiZhimin All rights reserved.
- */
+
 public class LocationUtils {
     private static String TAG = "LocationUtil";
 

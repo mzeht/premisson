@@ -1,4 +1,4 @@
-package com.wpmac.premisson;
+package com.wpmac.demo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

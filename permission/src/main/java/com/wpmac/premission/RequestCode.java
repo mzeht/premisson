@@ -1,12 +1,6 @@
-package com.wpmac.premisson;
+package com.wpmac.premission;
 
-/**
- * Desc:请求码
- * Author：LiZhimin
- * Date：2016/12/7 18:10
- * Version V1.0
- * Copyright © 2016 LiZhimin All rights reserved.
- */
+
 public interface RequestCode {
     int PHONE = 0x00;//电话
     int LOCATION = 0x01;//位置

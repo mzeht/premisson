@@ -11,3 +11,5 @@
 .idea
 out
 gen
+app/libs/
+app/src/main/res/drawable/

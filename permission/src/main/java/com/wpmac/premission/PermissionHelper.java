@@ -1,4 +1,4 @@
-package com.wpmac.premisson;
+package com.wpmac.premission;
 
 import android.content.Context;
 import android.hardware.Camera;
@@ -7,13 +7,7 @@ import android.media.AudioFormat;
 import android.media.AudioRecord;
 import android.media.MediaRecorder;
 
-/**
- * Desc:可能会有用的一些方法
- * Author：LiZhimin
- * Date：2016/12/7 18:10
- * Version V1.0
- * Copyright © 2016 LiZhimin All rights reserved.
- */
+
 public class PermissionHelper {
     /**
      * 6.0以下判断是否开启录音权限

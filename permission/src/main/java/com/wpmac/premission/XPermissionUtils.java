@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.wpmac.premisson;
+package com.wpmac.premission;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
@@ -26,14 +26,7 @@ import android.support.v4.content.ContextCompat;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Desc:Android 6.0运行时权限处理工具类
- * Author：LiZhimin
- * Date：2017/3/13 18:10
- * Version V1.0
- * Link:<a href="https://github.com/AndSync/XPermissionUtils"></>
- * Copyright © 2017 LiZhimin All rights reserved.
- */
+
 public class XPermissionUtils {
 
     private static int mRequestCode = -1;

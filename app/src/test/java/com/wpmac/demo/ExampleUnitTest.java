@@ -1,4 +1,4 @@
-package com.wpmac.premisson;
+package com.wpmac.demo;
 
 import org.junit.Test;
 
